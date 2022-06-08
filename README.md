@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Lukas. A JavaScript/TypeScript Developer.
+I'm Lukas. A JavaScript/TypeScript Engineer. Occasionally I also dable in Rust, Go and Elixir.
 
 Here's a list of my favorite tools and libs that are useful for any software engineer.
 
